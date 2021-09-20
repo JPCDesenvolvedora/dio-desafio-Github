@@ -1,0 +1,14 @@
+
+---------------------------------------------------------------------
+| Links de estudos: Alura Imersão.Dev - https://imersao.dev/        |
+|        DIO 		 -  https://web.digitalinnovation.one/home  |
+|       Udemy	         -  https://www.udemy.com/                  |
+---------------------------------------------------------------------
+| Linguagens com algumas habilidades já desenvolvidas:		    |
+|								    |
+| JS, Java, HTML, CSS e Phyton.					    |
+---------------------------------------------------------------------
+| Cronograma de Estudos:                                            |
+| JavaScript, CSS e HTML: Manhã;				    |
+| Java : Tarde; e Phyton: Noite.				    |
+---------------------------------------------------------------------
