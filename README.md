@@ -5,5 +5,5 @@ Criado para o Desafio de projeto.
 ## Links Úteis para Estudos:
 
 [Digital Inovation One](https://web.digitalinnovation.one/home)
-\n[Alura](https://imersao.dev/)
+[Alura](https://imersao.dev/)\n
 [Udemy](https://www.udemy.com/)
